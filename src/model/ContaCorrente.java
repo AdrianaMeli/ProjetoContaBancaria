@@ -1,6 +1,5 @@
-package conta.model;
+package model;
 
-import conta.model.Conta;
 public class ContaCorrente extends Conta{
 
     private float limite;

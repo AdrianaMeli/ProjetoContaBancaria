@@ -1,8 +1,8 @@
-package conta.controller;
+package controller;
 
 
-import conta.model.Conta;
-import conta.repository.ContaRepository;
+import model.Conta;
+import repository.ContaRepository;
 
 import java.util.ArrayList;
 

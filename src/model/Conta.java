@@ -1,4 +1,4 @@
-package conta.model;
+package model;
 
 public abstract class Conta {
 

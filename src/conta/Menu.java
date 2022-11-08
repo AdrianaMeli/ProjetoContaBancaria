@@ -1,9 +1,9 @@
 package conta;
 
 
-import conta.controller.ContaController;
-import conta.model.ContaCorrente;
-import conta.model.ContaPoupanca;
+import controller.ContaController;
+import model.ContaCorrente;
+import model.ContaPoupanca;
 import util.Cores;
 
 import java.io.IOException;
